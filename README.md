@@ -8,3 +8,9 @@ Therefore, the goal of our project is to apply principles of machine learning ov
 
 # Methodology
 ![image](https://github.com/Sachinaswal29/Stroke_Disease_Prediction/assets/91174800/db0e7d85-7b54-41d6-a5de-baf4647390f4)
+
+**Data source**
+
+•	Primary data:- Collected reference materials and common features/attributes by consulting neurologists and cardiologists.  
+•	Secondary data :- Obtained from Kaggle website. “Healthcare-dataset-stroke data” which is publicly available. Totally consists of 5110 entries, out of which 2995 were female and 2115 were male. Consists of 12 features. 
+
