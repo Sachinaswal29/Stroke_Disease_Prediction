@@ -14,3 +14,23 @@ Therefore, the goal of our project is to apply principles of machine learning ov
 •	Primary data:- Collected reference materials and common features/attributes by consulting neurologists and cardiologists.  
 •	Secondary data :- Obtained from Kaggle website. “Healthcare-dataset-stroke data” which is publicly available. Totally consists of 5110 entries, out of which 2995 were female and 2115 were male. Consists of 12 features. 
 
+**Libraries imported **
+
+->NumPy   
+Python library which deals with arrays, basically used for scientific computations. Used for performing linear algebra, matrix multiplication, Fourier transform. 
+
+->Pandas  
+Used analyze data. Works on various file formats such as SQL, JSON, Microsoft Excel.  Data manipulation operations such as merging, selecting, reshaping and data cleaning in general. 
+
+
+->Matplotlib Pyplot  
+Has collection of functions that makes matplotlib  works like MATLAB. Basically, used for data visualization, also includes functions such as creating a figure, plotting area etc. 
+
+->Seaborn  
+It is a data visualization based on matplotlib. It provides high-level interface for drawing informative and attractive graphs. 
+
+->Tkinter    
+It is a simple and easy to use in-built python model used for designing user interface. Here this module is used to create 1920x1080 window with the necessary widgets for taking inputs. 
+
+
+
