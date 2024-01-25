@@ -14,7 +14,7 @@ Therefore, the goal of our project is to apply principles of machine learning ov
 •	Primary data:- Collected reference materials and common features/attributes by consulting neurologists and cardiologists.  
 •	Secondary data :- Obtained from Kaggle website. “Healthcare-dataset-stroke data” which is publicly available. Totally consists of 5110 entries, out of which 2995 were female and 2115 were male. Consists of 12 features. 
 
-**Libraries imported **
+**Libraries imported**
 
 ->NumPy   
 Python library which deals with arrays, basically used for scientific computations. Used for performing linear algebra, matrix multiplication, Fourier transform. 
