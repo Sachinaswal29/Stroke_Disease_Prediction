@@ -35,4 +35,8 @@ Therefore, the goal of our project is to apply principles of machine learning ov
 **Data cleaning**  
 •	Data was cleaned for missing data and null values. Missing data was dealt by removing the rows with null values or redundant values. 
 
+ **Data analysis**  
+•	There are three types of data analysis which is performed i.e.,Categorical feature analysis, Numerical feature analysis and Multicollinearity analysis. Data analysis is done to show us the hidden relationships and attributes present in the dataset which help the machine learning model to perform better. 
+
+
 
