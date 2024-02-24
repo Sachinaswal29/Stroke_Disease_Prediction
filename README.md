@@ -41,4 +41,11 @@ Therefore, the goal of our project is to apply principles of machine learning ov
 **Implementing algorithms**  
 •	Five different algorithms are selected after literature survey. Comparative study is made between these five algorithms - Decision Tree, Logistic Regression, Random Forest, Support Vector Machine and K Nearest Neighbor. 
 
+**Cross validation**  
+•	Effectiveness of all the models is verified to solve overfitting problems. Overall assessment on how the model will perform for an independent test dataset. 
+•	Finally, the best performing model will be used to predict stroke using the input data given by the user. 
+
+**Creating GUI**   
+•	The graphical user interface is a user interface which permits users to interact with digital gadgets through graphics and the audio indicator, as opposed to textual content, mostly based on user interfaces, written command labels or textual content. In response to an impressive curve of command-line interfaces that requires   directions to be typed on a pc-keyboard, GUIs were provided. 
+
 
