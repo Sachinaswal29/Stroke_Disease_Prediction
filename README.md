@@ -38,5 +38,7 @@ Therefore, the goal of our project is to apply principles of machine learning ov
  **Data analysis**  
 •	There are three types of data analysis which is performed i.e.,Categorical feature analysis, Numerical feature analysis and Multicollinearity analysis. Data analysis is done to show us the hidden relationships and attributes present in the dataset which help the machine learning model to perform better. 
 
+**Implementing algorithms**  
+•	Five different algorithms are selected after literature survey. Comparative study is made between these five algorithms - Decision Tree, Logistic Regression, Random Forest, Support Vector Machine and K Nearest Neighbor. 
 
 
